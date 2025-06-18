@@ -48,21 +48,20 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RotuaTampubolon&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RotuaTampubolon&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RotuaTampubolon&show_icons=true&theme=default&hide_border=true&bg_color=f6f8fa&title_color=24292f&text_color=57606a&icon_color=0969da" alt="GitHub Stats"/>   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RotuaTampubolon&layout=compact&theme=default&hide_border=true&bg_color=f6f8fa&title_color=24292f&text_color=57606a" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RotuaTampubolon&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RotuaTampubolon&theme=radical&hide_border=true" alt="GitHub Streak"/>&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
-</div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RotuaTampubolon&theme=default&hide_border=true&background=f6f8fa&stroke=d1d9e0&ring=0969da&fire=fd7e14&currStreakNum=24292f&sideNums=57606a&currStreakLabel=24292f&sideLabels=57606a&dates=57606a" alt="GitHub Streak"/>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=RotuaTampubolon&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
 </div>
 
 ## 🎯 Featured Projects
@@ -123,11 +122,11 @@ const student = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=RotuaTampubolon&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&border=true" alt="Random Quote"/>
 </div>
 
 **"Code is like humor. When you have to explain it, it's bad."** 💻✨
