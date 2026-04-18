@@ -1,68 +1,83 @@
-# Rotua Immanuela Tampubolon
+# Fullstack Engineer in Training — Building Real Systems, Not Tutorials
 
-**Fullstack Developer in Progress · Information Systems @ Institut Teknologi Del**
-
-I build web applications end-to-end — from database schema to UI. Currently focused on crafting clean, maintainable code and learning the engineering practices that make software production-ready.
-
-Open to software engineering internship opportunities.
+`Node.js` `PostgreSQL` `React` `Prisma` `JWT` `Tailwind`
 
 ---
 
-## 🔨 Currently Building
+## About
 
-**[Studify](https://github.com/RotuaTampubolon/studify)** — A Student Productivity Platform
-
-A fullstack web app for managing tasks, deadlines, and tracking academic productivity. Built with a real-world architecture: REST API backend, relational database with ORM, JWT-based auth, and a responsive React frontend.
-
-`Next.js` · `Node.js` · `Express.js` · `PostgreSQL` · `Prisma` · `Tailwind CSS` · `JWT`
+I'm a 4th-semester Information Systems student focused on backend and fullstack engineering.
+Currently building **Studify** — a student productivity platform with structured task management, Pomodoro scheduling, and progress tracking — from system design to deployment.
+I care about writing code that is correct before it is clever, and systems that hold up under real use.
 
 ---
 
-## 🛠 Tech Stack
+## Current Focus
 
-**Frontend**
-`JavaScript` `React` `Next.js` `Tailwind CSS` `HTML` `CSS`
+| Area | Detail |
+|------|--------|
+| Building | Studify — fullstack productivity platform |
+| Deepening | REST API design, auth flows, data modeling |
+| Practicing | PostgreSQL schema design, Prisma relations |
+| Target | Software engineering internship — mid 2025 |
+
+---
+
+## Tech Stack
 
 **Backend**
-`Node.js` `Express.js` `REST API` `JWT Authentication`
+Node.js · Express · PostgreSQL · Prisma ORM
 
-**Database**
-`PostgreSQL` `Prisma ORM` `MySQL`
+**Auth & Security**
+JWT · bcrypt · Middleware auth · Role-based access
 
-**Tools**
-`Git` `GitHub` `VS Code` `Figma`
+**Frontend**
+React · Next.js · Tailwind CSS
 
----
-
-## 📌 Featured Project
-
-### Studify — Student Productivity Platform
-> Fullstack web application for student task management and productivity tracking
-
-- 🔐 JWT-based authentication with secure session handling  
-- 📋 Task and deadline management with priority filtering  
-- 📊 Productivity dashboard with progress tracking  
-- 🗄️ PostgreSQL database with Prisma ORM for type-safe queries  
-- ⚡ REST API with Express.js, consumed by a Next.js frontend  
-
-**Stack:** Next.js · Express.js · PostgreSQL · Prisma · Tailwind CSS · JWT  
-**Repo:** [github.com/RotuaTampubolon/studify](https://github.com/RotuaTampubolon/studify) *(in progress)*
+**Tooling**
+Git & GitHub · REST conventions · Postman · Vercel / Railway
 
 ---
 
-## 📚 Currently Learning
+## Featured Project
 
-- Clean REST API design and error handling patterns
-- Database query optimization with PostgreSQL
-- Component architecture and state management in React
+### Studify &nbsp; `In Development`
+
+**Problem**
+Students context-switch between tasks, deadlines, and study sessions using fragmented tools — calendar apps, notes, timers — with no unified state. Productivity data is lost between sessions.
+
+**Solution**
+A single-platform system with structured task management, Pomodoro-based session tracking, and persistent progress history. Built with a normalized PostgreSQL schema, a RESTful Express API, and a React frontend.
+
+**Engineering Decisions**
+JWT auth with refresh token rotation · Prisma schema with relational task/session/user models · API layer separated from business logic · Deployed backend on Railway, frontend on Vercel.
+
+`Node.js` `Express` `PostgreSQL` `Prisma` `JWT` `React` `Next.js` `Tailwind CSS`
+
+> 🔗 [Live Demo](#) &nbsp;|&nbsp; [Repository](#)
 
 ---
 
-## 📬 Contact
+## Engineering Mindset
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rotua-immanuela)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rotuaimmanuela@gmail.com)
+- Separation of concerns first — routes, controllers, and services are distinct. Spaghetti code is a maintenance liability.
+- Schema design before queries. A bad data model creates technical debt that compounds.
+- Auth is not bolted on — it's designed into the system from the first route.
+- Error handling is part of the feature, not an afterthought. Every API response has a consistent shape.
+- Readable commits, clean diffs — version history should tell the story of what changed and why.
 
 ---
 
-*4th Semester · Information Systems · Institut Teknologi Del · Medan, Indonesia*
+## Next Targets
+
+- `01` Complete and deploy Studify v1 with auth, task, and session modules
+- `02` Write integration tests for core API routes using Jest + Supertest
+- `03` Add Redis-based caching layer for session data
+- `04` Contribute a meaningful pull request to an open source project
+- `05` Document system architecture with diagrams in repo README
+
+---
+
+## Contact
+
+[LinkedIn](#) &nbsp;·&nbsp; [Email](#) &nbsp;·&nbsp; [Portfolio](#)
